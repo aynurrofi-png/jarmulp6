@@ -1,0 +1,265 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.3  22768  6932 ?        Ss   03:52   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    03:52   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    03:52   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-netns]
+root          13  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-mm_percpu_wq]
+root          14  0.0  0.0      0     0 ?        I    03:52   0:00 [rcu_tasks_kthread]
+root          15  0.0  0.0      0     0 ?        I    03:52   0:00 [rcu_tasks_rude_kthread]
+root          16  0.0  0.0      0     0 ?        I    03:52   0:00 [rcu_tasks_trace_kthread]
+root          17  0.0  0.0      0     0 ?        S    03:52   0:00 [ksoftirqd/0]
+root          18  0.0  0.0      0     0 ?        I    03:52   0:04 [rcu_preempt]
+root          19  0.0  0.0      0     0 ?        S    03:52   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          20  0.0  0.0      0     0 ?        S    03:52   0:00 [rcu_exp_gp_kthread_worker]
+root          21  0.0  0.0      0     0 ?        S    03:52   0:00 [migration/0]
+root          22  0.0  0.0      0     0 ?        S    03:52   0:00 [idle_inject/0]
+root          23  0.0  0.0      0     0 ?        S    03:52   0:00 [cpuhp/0]
+root          24  0.0  0.0      0     0 ?        S    03:52   0:00 [cpuhp/1]
+root          25  0.0  0.0      0     0 ?        S    03:52   0:00 [idle_inject/1]
+root          26  0.0  0.0      0     0 ?        S    03:52   0:00 [migration/1]
+root          27  0.0  0.0      0     0 ?        S    03:52   0:01 [ksoftirqd/1]
+root          32  0.0  0.0      0     0 ?        S    03:52   0:00 [kdevtmpfs]
+root          33  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-inet_frag_wq]
+root          34  0.0  0.0      0     0 ?        S    03:52   0:00 [kauditd]
+root          35  0.0  0.0      0     0 ?        S    03:52   0:00 [khungtaskd]
+root          36  0.0  0.0      0     0 ?        S    03:52   0:00 [oom_reaper]
+root          38  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-writeback]
+root          40  0.0  0.0      0     0 ?        S    03:52   0:06 [kcompactd0]
+root          41  0.0  0.0      0     0 ?        SN   03:52   0:00 [ksmd]
+root          42  0.0  0.0      0     0 ?        SN   03:52   0:00 [khugepaged]
+root          43  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-kintegrityd]
+root          44  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-kblockd]
+root          45  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-blkcg_punt_bio]
+root          46  0.0  0.0      0     0 ?        S    03:52   0:00 [irq/9-acpi]
+root          48  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-tpm_dev_wq]
+root          49  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-ata_sff]
+root          50  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-md]
+root          51  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-md_bitmap]
+root          52  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-edac-poller]
+root          53  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-devfreq_wq]
+root          54  0.0  0.0      0     0 ?        S    03:52   0:00 [watchdogd]
+root          57  0.0  0.0      0     0 ?        S    03:52   0:28 [kswapd0]
+root          58  0.0  0.0      0     0 ?        S    03:52   0:00 [ecryptfs-kthread]
+root          59  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-kthrotld]
+root          60  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-acpi_thermal_pm]
+root          61  0.0  0.0      0     0 ?        S    03:52   0:00 [scsi_eh_0]
+root          62  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-scsi_tmf_0]
+root          63  0.0  0.0      0     0 ?        S    03:52   0:00 [scsi_eh_1]
+root          64  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-scsi_tmf_1]
+root          68  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-mld]
+root          69  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-ipv6_addrconf]
+root          78  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-kstrp]
+root          80  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/u11:0]
+root          87  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-cryptd]
+root          97  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-charger_manager]
+root         144  0.0  0.0      0     0 ?        S    03:52   0:00 [scsi_eh_2]
+root         145  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-scsi_tmf_2]
+root         176  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-raid5wq]
+root         203  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/0:2H-kblockd]
+root         222  0.0  0.0      0     0 ?        S    03:52   0:00 [jbd2/sda3-8]
+root         223  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-ext4-rsv-conversion]
+root         280  0.0  0.3  67092  6520 ?        S<s  03:52   0:01 /usr/lib/systemd/systemd-journald
+root         294  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-rpciod]
+root         295  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-xprtiod]
+root         332  0.0  0.0      0     0 ?        S    03:52   0:00 [irq/18-vmwgfx]
+root         333  0.0  0.0      0     0 ?        I<   03:52   0:00 [kworker/R-ttm]
+root         347  0.0  0.2  30088  4916 ?        Ss   03:52   0:01 /usr/lib/systemd/systemd-udevd
+root         348  0.0  0.0      0     0 ?        S    03:52   0:00 [psimon]
+_rpc         501  0.0  0.0   7968  1412 ?        Ss   03:52   0:00 /sbin/rpcbind -f -w
+systemd+     503  0.0  0.2  23492  4192 ?        Ss   03:52   0:06 /usr/lib/systemd/systemd-resolved
+systemd+     507  0.0  0.1  91216  2396 ?        Ssl  03:52   0:00 /usr/lib/systemd/systemd-timesyncd
+root         541  0.0  0.0   5140   936 ?        Ss   03:52   0:00 /usr/sbin/blkmapd
+root         547  0.0  0.0   5632   900 ?        Ss   03:52   0:00 /usr/sbin/nfsdcld
+root         609  0.0  0.1 313572  2992 ?        Ssl  03:52   0:00 /usr/libexec/accounts-daemon
+avahi        611  0.0  0.1   8616  2076 ?        Ss   03:52   0:02 avahi-daemon: running [rofi-jarkom2.local]
+root         613  0.0  0.0   9428  1476 ?        Ss   03:52   0:00 /usr/sbin/cron -f -P
+message+     614  0.0  0.1  12020  3592 ?        Ss   03:52   0:03 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         617  0.0  0.0   5428  1212 ?        Ss   03:52   0:00 /usr/sbin/fsidd
+root         623  0.0  0.0  82920  1980 ?        Ssl  03:52   0:01 /usr/sbin/irqbalance
+polkitd      640  0.0  0.1 385680  3356 ?        Ssl  03:52   0:01 /usr/lib/polkit-1/polkitd --no-debug
+root         644  0.0  0.1 313760  2740 ?        Ssl  03:52   0:00 /usr/libexec/power-profiles-daemon
+root         648  0.0  0.1 309836  2812 ?        Ssl  03:52   0:00 /usr/libexec/switcheroo-control
+root         650  0.0  0.1  18188  2580 ?        Ss   03:52   0:00 /usr/lib/systemd/systemd-logind
+root         655  0.0  0.1 469248  3172 ?        Ssl  03:52   0:00 /usr/libexec/udisks2/udisksd
+avahi        675  0.0  0.0   8424   680 ?        S    03:52   0:00 avahi-daemon: chroot helper
+root         700  0.0  0.3 485176  7452 ?        Ssl  03:52   0:06 /usr/sbin/NetworkManager --no-daemon
+root         702  0.0  0.0  17380  1600 ?        Ss   03:52   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+syslog       707  0.0  0.1 222508  2116 ?        Ssl  03:52   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         737  0.0  0.1 392116  2788 ?        Ssl  03:52   0:00 /usr/sbin/ModemManager
+root         834  0.0  0.1 380076  2996 ?        SLsl 03:52   0:00 /usr/sbin/lightdm
+root         853  0.6  6.1 585440 124740 tty7    Ssl+ 03:52   7:04 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         857  0.0  0.0   8708  1160 tty1     Ss+  03:52   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+rtkit        930  0.0  0.0  22940  1748 ?        SNsl 03:52   0:00 /usr/libexec/rtkit-daemon
+root        1010  0.0  0.1 318080  3952 ?        Ssl  03:52   0:02 /usr/libexec/upowerd
+root        1020  0.0  0.1 236468  2776 ?        Sl   03:52   0:00 lightdm --session-child 13 20
+kernoops    1073  0.0  0.0  12744  1584 ?        Ss   03:53   0:00 /usr/sbin/kerneloops --test
+statd       1074  0.0  0.0   4560  1076 ?        Ss   03:53   0:00 /usr/sbin/rpc.statd
+kernoops    1081  0.0  0.0  12744  1580 ?        Ss   03:53   0:00 /usr/sbin/kerneloops
+root        1089  0.0  0.0  11156   768 ?        Ss   03:53   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+www-data    1090  0.0  0.0  12892  1408 ?        S    03:53   0:00 nginx: worker process
+www-data    1091  0.0  0.0  12892  1408 ?        S    03:53   0:00 nginx: worker process
+rofi        1124  0.0  0.1  20532  3336 ?        Ss   03:55   0:00 /usr/lib/systemd/systemd --user
+rofi        1125  0.0  0.0  23000  1064 ?        S    03:55   0:00 (sd-pam)
+rofi        1137  0.0  0.1 115800  2248 ?        S<sl 03:55   0:00 /usr/bin/pipewire
+rofi        1138  0.0  0.0  97740  1692 ?        Ssl  03:55   0:00 /usr/bin/pipewire -c filter-chain.conf
+rofi        1140  0.0  0.1 407448  3324 ?        S<sl 03:55   0:00 /usr/bin/wireplumber
+rofi        1141  0.0  0.1 122840  2940 ?        S<sl 03:55   0:01 /usr/bin/pipewire-pulse
+rofi        1142  0.0  0.1 316716  3152 ?        SLsl 03:55   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+rofi        1143  0.0  0.1  10692  3096 ?        Ss   03:55   0:24 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+rofi        1164  0.0  0.2 377792  5808 ?        Ssl  03:55   0:00 xfce4-session
+rofi        1381  0.0  0.1 314584  3452 ?        Ssl  03:55   0:00 /usr/libexec/gvfsd
+rofi        1387  0.0  0.1 459988  2756 ?        Sl   03:55   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+rofi        1393  0.0  0.1 383088  3024 ?        Ssl  03:55   0:00 /usr/libexec/at-spi-bus-launcher
+rofi        1404  0.0  0.1   9556  2324 ?        S    03:55   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+rofi        1412  0.0  0.1 236016  3260 ?        Sl   03:55   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+rofi        1420  0.0  0.0   8300   440 ?        Ss   03:55   0:00 /usr/bin/ssh-agent -s
+rofi        1429  0.0  0.0 157752  1448 ?        SLsl 03:55   0:00 /usr/bin/gpg-agent --supervised
+rofi        1432  0.1  0.8 975580 17004 ?        Sl   03:55   1:35 xfwm4
+rofi        1442  0.0  0.3 304880  6256 ?        Sl   03:55   0:01 xfsettingsd
+rofi        1446  0.0  0.7 462828 14892 ?        Sl   03:55   0:18 xfce4-panel
+rofi        1451  0.0  1.1 549264 22248 ?        Sl   03:55   0:12 Thunar --daemon
+rofi        1457  0.0  0.4 468216 10064 ?        Sl   03:55   0:02 xfdesktop
+rofi        1461  0.0  0.3 463584  7268 ?        Sl   03:55   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 14680071 whiskermenu Menu Whisker Tampilkan menu untuk mempermudah akses aplikasi yang terinstal
+rofi        1465  0.0  0.4 454740  8440 ?        Sl   03:55   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 8 14680072 systray Plugin Baki Status Menyediakan item pemberitahu status (indikator aplikasi) dan item baki sistem versi lama
+rofi        1466  0.0  0.3 461528  7448 ?        Sl   03:55   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 9 14680073 notification-plugin Plugin Notifikasi Plugin notifikasi untuk panel Xfce
+rofi        1467  0.1  0.4 535664  8296 ?        Sl   03:55   1:37 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxapp-status-plugin.so 10 14680074 xapp-status-plugin Plugin Status XApp Area dimana ikon Status XApp muncul
+rofi        1468  0.0  0.4 388352  9416 ?        Sl   03:55   0:02 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 11 14680075 power-manager-plugin Plugin Manajer Daya Menampilkan kadar isi baterai divais dan menyetel kecerahan layar anda
+rofi        1469  0.0  0.5 460240 10804 ?        Sl   03:55   0:01 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 12 14680076 pulseaudio Pengaya PulseAudio Sesuaikan volume audio dari sistem suara PulseAudio
+rofi        1492  0.0  0.4 465672  8440 ?        Ssl  03:55   0:07 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+rofi        1514  0.0  0.1 922168  2956 ?        Sl   03:55   0:00 xiccd
+rofi        1516  0.0  0.3 553596  6952 ?        Sl   03:55   0:00 /usr/bin/python3 /usr/bin/blueman-applet
+colord      1526  0.0  0.1 320336  3004 ?        Ssl  03:55   0:00 /usr/libexec/colord
+rofi        1527  0.0  0.2 299004  4812 ?        Sl   03:55   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+rofi        1530  0.0  0.2  64796  4328 ?        S    03:55   0:21 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+rofi        1531  0.1  0.4 549732  9324 ?        Sl   03:55   1:06 nm-applet
+rofi        1537  0.0  0.1 310408  2692 ?        Sl   03:55   0:00 /usr/libexec/geoclue-2.0/demos/agent
+rofi        1543  0.1  0.4 567392  9364 ?        Sl   03:55   1:52 mintreport-tray
+rofi        1553  0.0  0.3 970572  6060 ?        Sl   03:55   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+rofi        1555  0.0  0.1 389656  3708 ?        Ssl  03:55   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+rofi        1564  0.0  0.1 309908  3148 ?        Ssl  03:55   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+rofi        1571  0.0  0.1 310876  3136 ?        Ssl  03:55   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+rofi        1588  0.0  0.1 389520  3080 ?        Ssl  03:55   0:01 /usr/libexec/gvfs-afc-volume-monitor
+rofi        1596  0.0  0.1 310044  3092 ?        Ssl  03:55   0:00 /usr/libexec/gvfs-goa-volume-monitor
+rofi        1602  0.0  0.1 546684  3896 ?        Sl   03:55   0:00 /usr/libexec/goa-daemon
+rofi        1603  0.0  0.2 303100  5932 ?        Sl   03:55   0:01 xfce4-power-manager
+rofi        1605  0.0  0.3 452408  7288 ?        Sl   03:55   0:01 light-locker
+rofi        1616  0.0  0.1 463152  2808 ?        Sl   03:55   0:00 /usr/libexec/goa-identity-service
+rofi        1640  0.0  0.1 230108  2956 ?        Ssl  03:55   0:00 /usr/libexec/dconf-service
+rofi        1708  0.0  0.1 1275528 3704 ?        Ssl  03:55   0:00 /usr/libexec/evolution-source-registry
+rofi        1727  0.0  0.1 1169708 3368 ?        Ssl  03:55   0:00 /usr/libexec/evolution-calendar-factory
+rofi        1744  0.0  0.1 834060  3140 ?        Ssl  03:55   0:00 /usr/libexec/evolution-addressbook-factory
+rofi        1763  0.0  0.1  49072  2180 ?        Ss   03:55   0:00 /usr/libexec/bluetooth/obexd
+rofi        1765  0.0  0.4 894212  9652 ?        Sl   03:55   0:02 mintUpdate
+rofi        1819  1.3 11.4 13324608 229984 ?     Sl   03:56  14:07 /usr/lib/firefox/firefox
+rofi        1824  0.0  0.0 1068592 1604 ?        Sl   03:56   0:00 /usr/lib/firefox/crashhelper 1819 9 /tmp/ 11
+rofi        1873  0.0  0.3 1354332 7488 ?        S    03:56   0:00 /usr/lib/firefox/firefox-bin -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {1ac9604c-3658-4606-9a81-5a900c66ab27} -parentPid 1819 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 1 forkserver
+rofi        1876  0.0  0.5 1368028 10260 ?       Sl   03:56   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20251217121356 -prefsHandle 0:36914 -prefMapHandle 1:276920 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {c9bb7491-0ce0-4c58-b6fc-b8742b36b230} -parentPid 1819 -crashReporter 5 -crashHelper 6 -appDir /usr/lib/firefox/browser 2 socket
+rofi        1882  0.0  0.2 711972  4172 ?        Ssl  03:56   0:01 /usr/libexec/xdg-desktop-portal
+rofi        1893  0.0  0.1 309588  2672 ?        Ssl  03:56   0:00 /usr/libexec/xdg-permission-store
+rofi        1899  0.0  0.1 685540  3124 ?        Ssl  03:56   0:00 /usr/libexec/xdg-document-portal
+root        1905  0.0  0.0   2704  1272 ?        Ss   03:56   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+rofi        1910  0.0  0.2 448748  5128 ?        Ssl  03:56   0:01 /usr/libexec/xdg-desktop-portal-gtk
+rofi        1931  0.0  0.2 450892  5068 ?        Ssl  03:56   0:00 /usr/libexec/xdg-desktop-portal-xapp
+rofi        1939  0.0  3.0 3594884 62276 ?       Sl   03:56   0:29 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:36990 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {e3241239-59ed-4911-bbfb-8316e8ad154b} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 3 tab
+rofi        1950  0.0  0.5 1538772 11100 ?       Sl   03:56   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20251217121356 -prefsHandle 0:36990 -prefMapHandle 1:276920 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {aba5113c-21f5-4690-8a68-034620e6ce67} -parentPid 1819 -crashReporter 5 -crashHelper 6 -appDir /usr/lib/firefox/browser 4 rdd
+rofi        2002  0.0  1.8 3528264 37892 ?       Sl   03:56   0:02 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:46442 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {8be9246c-8670-4619-886f-ed9a003aa0b5} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 5 tab
+rofi        2047  0.0  0.6 1541844 13248 ?       Sl   03:56   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20251217121356 -sandboxingKind 0 -prefsHandle 0:46688 -prefMapHandle 1:276920 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {5e2e8249-5d88-488a-96f5-6b2c632fe1db} -parentPid 1819 -crashReporter 5 -crashHelper 6 -appDir /usr/lib/firefox/browser 6 utility
+rofi        2083  1.3 18.6 4409736 375720 ?      Sl   03:56  13:50 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42138 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6797d90d-1d8c-4385-a788-c914629942c3} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 9 tab
+rofi        2130  0.0  4.6 3776268 92720 ?       Sl   03:56   0:51 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:46852 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {5fc74510-e0cb-4a84-85af-dfebc08f05ef} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 10 tab
+root        2824  0.0  0.0      0     0 ?        I<   04:03   0:00 [kworker/R-nfsiod]
+root        2834  0.0  0.0      0     0 ?        I    04:03   0:00 [NFSv4 callback]
+root        3684  0.0  0.2 653240  4188 ?        Ssl  04:12   0:03 /usr/libexec/fwupd/fwupd
+rofi        5122  0.3 16.2 4004860 326680 ?      Sl   07:02   2:37 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42303 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ac259529-99db-46d6-b32a-65bf4e0c7142} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 13 tab
+rofi        5190  0.0  2.0 3533724 42224 ?       Sl   07:02   0:07 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42344 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f31a0b06-0a92-4b17-a333-7eee462e1233} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 14 tab
+rofi        5453  0.0  0.1 236488  2692 ?        Ssl  07:04   0:00 /usr/libexec/gvfsd-metadata
+rofi        5457  0.0  0.2 536028  4248 ?        Sl   07:04   0:00 /usr/libexec/gvfsd-trash --spawner :1.17 /org/gtk/gvfs/exec_spaw/0
+rofi        5591  0.0  4.5 3752792 91744 ?       Sl   07:07   0:39 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42616 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {55938922-3d3d-4a12-94d6-f04ccceb9a31} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 17 tab
+rofi        6259  0.0  2.5 3569160 52332 ?       Sl   07:35   0:08 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42615 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {39ef8b7f-8ca7-413f-bcd1-842f44441bc5} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 18 tab
+rofi        6997  0.0  6.3 3804276 127696 ?      Sl   08:01   0:34 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42615 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ef98649c-adef-44e9-830e-1347f14ff3ba} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 20 tab
+rofi        8183  0.0  0.2 462792  4144 ?        Sl   08:18   0:00 /usr/libexec/gvfsd-network --spawner :1.17 /org/gtk/gvfs/exec_spaw/1
+rofi        8193  0.0  0.1 390868  3048 ?        Sl   08:18   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.17 /org/gtk/gvfs/exec_spaw/2
+root       11183  0.0  0.0      0     0 ?        I<   11:08   0:00 [kworker/u12:0-ttm]
+root       11610  0.0  0.0      0     0 ?        S    11:16   0:00 [psimon]
+root       12740  0.0  0.0      0     0 ?        I<   11:54   0:00 [kworker/R-ib-comp-wq]
+root       12741  0.0  0.0      0     0 ?        I<   11:54   0:00 [kworker/R-ib-comp-unb-wq]
+root       12742  0.0  0.0      0     0 ?        I<   11:54   0:00 [kworker/R-ib_mcast]
+root       12743  0.0  0.0      0     0 ?        I<   11:54   0:00 [kworker/R-ib_nl_sa_wq]
+rofi       13280  0.0  1.3 3492668 27936 ?       Sl   12:04   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {8196acb6-8e24-4439-bab0-b8cc202d5d33} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 23 tab
+rofi       13384  0.0  0.0 120140  1904 ?        Ssl  12:04   0:00 /usr/bin/speech-dispatcher -s -t 0
+rofi       13396  0.0  0.0      0     0 ?        Z    12:04   0:00 [sd_espeak-ng-mb] <defunct>
+rofi       13399  0.0  0.1 107384  2260 ?        Sl   12:04   0:00 /usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf
+rofi       13410  0.0  1.2 3491640 26004 ?       Sl   12:04   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {9a97a34d-2962-485d-9efc-c8a0981fe588} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 25 tab
+rofi       13441  0.0  0.1 162692  2260 ?        Sl   12:04   0:01 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+rofi       13446  0.0  0.0   5668  1480 ?        S    12:04   0:00 /usr/lib/speech-dispatcher-modules/sd_openjtalk /etc/speech-dispatcher/modules/openjtalk.conf
+rofi       13476  0.0  1.2 3493716 25968 ?       Sl   12:04   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f5a18ad0-7d26-4f8d-804f-8d5546164273} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 26 tab
+rofi       13499  0.0  1.3 3490620 26728 ?       Sl   12:04   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {64645360-3f53-46b1-a510-82f0c0274447} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 27 tab
+rofi       13504  0.0  1.2 3489596 25892 ?       Sl   12:04   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {088cd25e-0533-43ea-82f0-9d908e81651d} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 28 tab
+rofi       13513  0.0  1.6 3504232 33384 ?       Sl   12:04   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {757f2596-4a71-499d-8349-2fad2c14405c} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 29 tab
+rofi       13560  0.0  1.2 3489568 25600 ?       Sl   12:04   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6254b401-c1c6-4cc2-b686-906074e96aa8} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 30 tab
+rofi       13665  0.0  1.2 3489568 25596 ?       Sl   12:05   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {15d6f4d0-c3e5-499f-bee8-bedb32f8fda4} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 34 tab
+rofi       13677  0.0  1.5 3514224 31788 ?       Sl   12:05   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {a4946da1-7c98-489a-afba-17a590f7d9b9} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 35 tab
+rofi       13715  0.0  1.2 3491616 25612 ?       Sl   12:05   0:09 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {910e73cd-395e-44a2-b42b-e7b52b859cb3} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 36 tab
+rofi       13722  0.0  1.2 3489568 25540 ?       Sl   12:05   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {92d54a19-f93d-4ffb-a50d-4bfa4f4b3b40} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 37 tab
+rofi       13796  0.0  2.0 3492724 42064 ?       Sl   12:05   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {b8113982-dee9-4575-a23b-c675bd5c3e72} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 38 tab
+rofi       14236  0.0  1.2 3489568 25992 ?       Sl   12:06   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {64ec9009-79d9-48c1-81aa-69d41a3a1b36} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 39 tab
+rofi       14292  0.0  1.2 3489828 26136 ?       Sl   12:06   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {e9ea207a-79f5-489e-94f8-f9a0ff9c7a84} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 40 tab
+rofi       14704  0.0  1.2 3489568 25552 ?       Sl   12:06   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {214e24e7-940e-4935-80e7-06bc51dc7b49} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 41 tab
+rofi       14714  0.0  1.2 3489568 25416 ?       Sl   12:06   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {c5a24b6d-c78b-497e-8c67-99098a7056a1} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 43 tab
+rofi       14814  0.0  1.2 3491600 25436 ?       Sl   12:06   0:09 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f667c1f5-2b7e-436f-8507-0d4cc69cf7f4} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 44 tab
+rofi       14821  0.0  1.2 3489568 25508 ?       Sl   12:06   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f2e0f57b-a1a1-4017-af0b-c5da3a774438} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 45 tab
+rofi       14901  0.0  1.4 3505516 28960 ?       Sl   12:07   0:01 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42695 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {aa0d7b90-1c6f-4aa8-8c2d-dd2ea248c6b5} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 48 tab
+root       18436  0.0  0.0      0     0 ?        I<   14:05   0:00 [kworker/1:2H]
+root       19546  0.0  0.1  37824  2812 ?        Ss   14:24   0:00 /usr/sbin/cupsd -l
+lp         19551  0.0  0.0  16832  1872 ?        S    14:24   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp         19552  0.0  0.0  16832  1872 ?        S    14:24   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp         19554  0.0  0.0  16832  1872 ?        S    14:24   0:00 /usr/lib/cups/notifier/dbus dbus://
+cups-br+   19556  0.0  0.2 268764  4256 ?        Ssl  14:24   0:00 /usr/sbin/cups-browsed
+root       24267  0.0  0.0      0     0 ?        I    18:11   0:00 [kworker/0:1-events]
+root       24765  0.0  0.0      0     0 ?        I    18:48   0:00 [kworker/u9:0-events_power_efficient]
+root       25538  0.0  0.0      0     0 ?        I    19:45   0:00 [kworker/u10:4-events_power_efficient]
+root       25771  0.0  0.0      0     0 ?        I    20:01   0:00 [kworker/u10:0-events_power_efficient]
+rofi       25797  0.0  0.1 309960  3616 ?        Sl   20:02   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+root       26755  0.0  0.0      0     0 ?        I    20:13   0:00 [kworker/u10:3-flush-8:0]
+root       26792  0.0  0.0      0     0 ?        I<   20:16   0:00 [kworker/u12:1]
+rofi       26878  0.0  0.2 390300  4204 ?        Sl   20:16   0:00 /usr/libexec/gvfsd-recent --spawner :1.17 /org/gtk/gvfs/exec_spaw/5
+rofi       26892  0.0  0.1 388804  3316 ?        Sl   20:16   0:00 /usr/libexec/gvfsd-computer --spawner :1.17 /org/gtk/gvfs/exec_spaw/6
+root       27101  0.0  0.0      0     0 ?        I    20:20   0:00 [kworker/u10:1-events_freezable_pwr_efficient]
+rofi       27156  0.2  0.8 482628 17192 ?        Sl   20:21   0:04 xfce4-terminal
+rofi       27164  0.0  0.1  11364  2576 pts/0    Ss+  20:21   0:00 bash
+root       27558  0.0  0.0      0     0 ?        I<   20:21   0:00 [kworker/0:0H-kblockd]
+root       27634  0.0  0.0      0     0 ?        I    20:22   0:00 [kworker/1:0-events]
+root       27642  0.0  0.0   3008  1440 ?        Ss   20:22   0:00 /usr/sbin/rpc.idmapd
+root       27645  0.0  0.0  44728  1616 ?        Ss   20:22   0:00 /usr/sbin/rpc.mountd
+root       27650  0.0  0.0      0     0 ?        I    20:22   0:00 [lockd]
+root       27652  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27653  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27654  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27655  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27656  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27657  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27658  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+root       27659  0.0  0.0      0     0 ?        I    20:22   0:00 [nfsd]
+rofi       27886  3.3  7.3 3757840 148124 ?      Sl   20:25   0:48 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42786 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {2979f30a-91d3-4ffc-b934-f09e69739ebb} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 62 tab
+root       27920  0.0  0.0      0     0 ?        I<   20:25   0:00 [kworker/1:0H-kblockd]
+root       28172  0.0  0.0      0     0 ?        I<   20:27   0:00 [kworker/u13:3-uvcvideo]
+root       28268  0.0  0.0      0     0 ?        I    20:29   0:00 [kworker/0:2-cgroup_destroy]
+root       28532  0.0  0.0      0     0 ?        I    20:34   0:00 [kworker/u8:0-ipv6_addrconf]
+root       28672  0.0  0.0      0     0 ?        I    20:36   0:00 [kworker/u9:2-events_power_efficient]
+root       28775  0.0  0.0      0     0 ?        I    20:39   0:00 [kworker/1:1-events]
+rofi       28810  0.0  0.2 574836  5656 ?        SNsl 20:40   0:00 /usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd
+rofi       28931  0.0  0.1  11364  2988 pts/1    Ss   20:42   0:00 bash
+rofi       28947  0.0  0.1  11364  2524 pts/2    Ss+  20:42   0:00 bash
+rofi       28979  0.0  0.1  11364  2624 pts/3    Ss+  20:42   0:00 bash
+root       29049  0.0  0.0      0     0 ?        I<   20:43   0:00 [kworker/u13:1-uvcvideo]
+root       29071  0.0  0.0      0     0 ?        I    20:43   0:00 [kworker/u9:1-events_unbound]
+root       29096  0.0  0.0      0     0 ?        I    20:43   0:00 [kworker/u8:2-netns]
+rofi       29234  0.2  3.3 3513068 67852 ?       Sl   20:46   0:00 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0:42786 -prefMapHandle 1:276920 -jsInitHandle 2:223356 -parentBuildID 20251217121356 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f7bf2f29-24cd-4839-98bd-3953f8cfe685} -parentPid 1819 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 66 tab
+root       29247  0.1  0.0      0     0 ?        I<   20:46   0:00 [kworker/0:1H-kblockd]
+root       29344  0.0  0.0      0     0 ?        I    20:46   0:00 [kworker/0:0-mm_percpu_wq]
+root       29348  0.0  0.0      0     0 ?        I    20:46   0:00 [kworker/u10:2-events_unbound]
+root       29468  0.0  0.0      0     0 ?        I    20:48   0:00 [kworker/u9:3]
+rofi       29506  0.0  0.2  13788  4584 pts/1    R+   20:49   0:00 ps aux
