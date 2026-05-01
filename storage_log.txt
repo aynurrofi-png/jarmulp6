@@ -1,0 +1,2 @@
+Sistem Berkas                 Besar   Isi  Sisa Isi% Dipasang di
+10.0.2.15:/srv/nas/attendance   24G   12G   12G  50% /mnt/nas_attendance
